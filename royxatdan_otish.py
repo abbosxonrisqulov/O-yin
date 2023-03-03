@@ -1,6 +1,6 @@
 from dboyin import Core
 
-
+#bu fayl ro'yxatdan o'tish uchun
 from PyQt5.QtWidgets import (
     QApplication,
     QWidget,
